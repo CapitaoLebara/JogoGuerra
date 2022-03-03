@@ -1,0 +1,12 @@
+***** js.js ****
+
+//Principais vari�veis do jogo
+	
+
+	} // Fim da fun��o loop()
+
+
+
+//Fun��o que movimenta o fundo do jogo
+	
+ // fim da fun��o movefundo()

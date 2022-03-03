@@ -1,0 +1,11 @@
+***** js.js ****
+
+
+***** js.js ****
+
+
+
+**** js.js *****
+
+ //Fim da fun��o moveinimigo1()
+

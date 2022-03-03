@@ -1,0 +1,18 @@
+***** js.js ****
+
+
+***** js.js ****
+
+	//Verifica se o usu�rio pressionou alguma tecla	
+	
+
+***** js.js ****
+
+	
+
+
+***** js.js ****
+
+	
+
+	} // fim da fun��o movejogador()

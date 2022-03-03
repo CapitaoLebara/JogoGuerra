@@ -1,0 +1,11 @@
+***** index.html ****
+
+
+
+***** js.js *****
+
+
+
+***** js.js *****
+
+ //Fim da fun��o colisao()

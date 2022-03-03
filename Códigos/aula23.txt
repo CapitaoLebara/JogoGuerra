@@ -1,0 +1,14 @@
+***** js.js *****
+
+//Fun��o GAME OVER
+	// Fim da fun��o gameOver();
+
+
+
+***** js.js *****
+
+
+
+
+***** estilos.css *****
+

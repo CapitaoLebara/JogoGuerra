@@ -1,0 +1,52 @@
+***** js.js *****
+
+
+
+***** js.js *****
+
+
+***** js.js *****
+
+
+
+
+***** js.js *****
+
+// Disparo com o inimigo1
+		
+	
+
+
+***** js.js *****
+
+// Disparo com o inimigo2
+		
+	
+
+
+***** js.js *****
+
+// jogador com o amigo
+
+
+***** js.js *****
+
+//Explos�o2
+	
+// Fim da fun��o explosao2()
+
+
+***** js.js *****
+
+//Reposiciona Inimigo2
+	
+
+
+
+***** js.js *****
+
+//Reposiciona Amigo
+	
+	 // Fim da fun��o reposicionaAmigo()
+
+

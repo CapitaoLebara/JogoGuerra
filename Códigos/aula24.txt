@@ -1,0 +1,6 @@
+***** js.js *****
+
+//Reinicia o Jogo
+		
+ //Fim da fun��o reiniciaJogo
+
